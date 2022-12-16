@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rickymorty/static/css/main.8d157190.css",
+    "main.js": "/rickymorty/static/js/main.ac82c87f.js",
+    "static/js/787.db9f685d.chunk.js": "/rickymorty/static/js/787.db9f685d.chunk.js",
+    "index.html": "/rickymorty/index.html",
+    "main.8d157190.css.map": "/rickymorty/static/css/main.8d157190.css.map",
+    "main.ac82c87f.js.map": "/rickymorty/static/js/main.ac82c87f.js.map",
+    "787.db9f685d.chunk.js.map": "/rickymorty/static/js/787.db9f685d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d157190.css",
+    "static/js/main.ac82c87f.js"
+  ]
+}
